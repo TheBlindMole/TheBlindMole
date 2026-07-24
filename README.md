@@ -2,10 +2,6 @@
 
 ###
 
-<div>
-  <img width="100%" src="https://vercel.app" />
-</div>
-
 ###
 
 <div align="center">
