@@ -1,13 +1,11 @@
 <h1 align="left">Hey!</h1>
 
-#PT
-Atualmente estou cursando o Técnico Especialista em Tecnologias de Sistemas e Programação no instituto IEFP. Estou em busca do meu primeiro estágio.
-#EN
-Currently taking the Specialist Technician in Systems Technologies and Programming course at the IEFP institute. Looking for my first internship.
+### #PT
+Atualmente, estou a tirar o curso de Técnico Especialista em Tecnologias e Sistemas de Programação no IEFP e encontro-me à procura do meu primeiro estágio.
+
+### #EN
+I am currently taking the Specialist Technician in Systems and Programming Technologies course at IEFP and I am looking for my first internship.
+
 <div align="center">
-  <img height="200" src="https://media.tenor.com/LqMVgeweDokAAAAM/food-tea.gif" />
+  <img height="200" src="https://media.tenor.com/LqMVgeweDokAAAAM/food-tea.gif" alt="Tea and cake GIF" />
 </div>
-
-###
-
-###
