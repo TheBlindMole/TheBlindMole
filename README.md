@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🇵🇹 Sobre Mim</h3>
+      <h3>PT Sobre Mim</h3>
       Atualmente, estou a tirar o curso de Técnico Especialista em Tecnologias e Sistemas de Programação no IEFP e encontro-me à procura do meu primeiro estágio.
     </td>
     <td width="50%" valign="top">
