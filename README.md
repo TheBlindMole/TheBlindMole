@@ -7,7 +7,7 @@
       Atualmente, estou a tirar o curso de Técnico Especialista em Tecnologias e Sistemas de Programação no IEFP e encontro-me à procura do meu primeiro estágio.
     </td>
     <td width="50%" valign="top">
-      <h3>🇬🇧 About Me</h3>
+      <h3>EN About Me</h3>
       I am currently taking the Specialist Technician in Systems and Programming Technologies course at IEFP and I am looking for my first internship.
     </td>
   </tr>
