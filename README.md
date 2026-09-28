@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img height="180" src="https://media.tenor.com/LqMVgeweDokAAAAM/food-tea.gif" alt="Tea GIF" />
+  <img height="180" src="https://64.media.tumblr.com/0118b92cd45c791f06ca2766314a09e4/f7386f854aac56d4-e5/s540x810/db9f9c0586f0deb97595e1ac16bb70f2dafb6bc9.gif" alt="Tea GIF" />
 </div>
 
 ### 💻 Tech Stack
